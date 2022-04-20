@@ -104,3 +104,13 @@ h1{
     font-size: 80px;
     color: white;
   }
+
+  input[type=checkbox] {
+    vertical-align: middle;
+    float: right;
+  }
+  label {
+    display: block;
+    overflow: hidden;
+    width: 120px;
+  }
